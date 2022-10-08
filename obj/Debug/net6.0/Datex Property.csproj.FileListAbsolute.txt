@@ -1,0 +1,15 @@
+C:\Users\ianis\Desktop\Datex Property\bin\Debug\net6.0\Datex Property.exe
+C:\Users\ianis\Desktop\Datex Property\bin\Debug\net6.0\Datex Property.deps.json
+C:\Users\ianis\Desktop\Datex Property\bin\Debug\net6.0\Datex Property.runtimeconfig.json
+C:\Users\ianis\Desktop\Datex Property\bin\Debug\net6.0\Datex Property.dll
+C:\Users\ianis\Desktop\Datex Property\bin\Debug\net6.0\Datex Property.pdb
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\Datex Property.csproj.AssemblyReference.cache
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\Datex Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\Datex Property.AssemblyInfoInputs.cache
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\Datex Property.AssemblyInfo.cs
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\Datex Property.csproj.CoreCompileInputs.cache
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\Datex Property.dll
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\refint\Datex Property.dll
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\Datex Property.pdb
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\Datex Property.genruntimeconfig.cache
+C:\Users\ianis\Desktop\Datex Property\obj\Debug\net6.0\ref\Datex Property.dll
